@@ -1,0 +1,8 @@
+/BrokenAppsCleaner.exe
+/BrokenAppsCleaner_Backup_*/
+*.log
+*.reg
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
